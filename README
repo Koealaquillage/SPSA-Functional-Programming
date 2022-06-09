@@ -1,0 +1,5 @@
+Hello !
+
+Ici on a les librairies pour les méthodes SPSA d'optimisation. A terme, j'aimerais passer celles-ci en classes indépendantes et ajouter des méthodes telles que la SGD ( Stochastic Gradient Descent).
+
+Dernière modification le 20/06/2018 par G.Koenig
